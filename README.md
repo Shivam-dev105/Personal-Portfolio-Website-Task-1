@@ -34,50 +34,34 @@ http://shivam-dev105.github.io/Personal-Portfolio-Website-Task-1/
 - Font Awesome  
 
 ---
-
-## 📁 Folder Structure
-
-
-
-
----
-
 ## ⚙️ Installation & Setup
 
 1️⃣ Clone the repository:
 ```bash
-git clone https://github.com/Shivam-dev105/Personal-Portfolio-Website-Task-1.git
+git clone [https://github.com/Shivam-dev105/Personal-Portfolio-Website-Task-1.git]
+```
 
 2️⃣ Go to project folder:
 ```bash
 cd Personal-Portfolio-Website-Task-1
-
+```
 
 3️⃣ Open in browser:
-
-Open index.html
-
-bash````
+Simply open the `index.html` file in your web browser to view the portfolio.
 
 ---
-👨‍💻 Author
 
-Shivam Kumar
-🔗 GitHub: https://github.com/Shivam-dev105
+## 👨‍💻 Author
 
+**Shivam Kumar** 🔗 GitHub: [Shivam-dev105](https://github.com/Shivam-dev105)
 
-👨‍💻 Author
+---
 
-Shivam Kumar
-🔗 GitHub: https://github.com/Shivam-dev105
+## 🤝 Contributing
 
-
-
-🤝 Contributing
-
-Contributions are welcome!
+Contributions are welcome!  
 Feel free to fork this repository and submit a pull request.
 
-📄 License
+## 📄 License
 
 This project is licensed under the MIT License.
